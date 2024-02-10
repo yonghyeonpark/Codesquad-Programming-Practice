@@ -18,3 +18,7 @@
 ## 💻 실행 결과
 
 ![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/6abfa543-fb34-4345-b6ac-3653e9f5bdf8)
+
+## 💡 피드백
+- `String[] test = bf.readLine().split("");`
+<br> => split을 사용해 한 번에 배열에 담은 후, for-each 문을 사용합니다.
