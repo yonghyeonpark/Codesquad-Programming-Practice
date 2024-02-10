@@ -31,19 +31,19 @@
 ## 💻 결과 화면 1
 ### 1라운드만 입력하고 B가 더 큰 경우
 
-![image](https://gist.github.com/assets/126778700/7d5eba3c-9db5-4169-9193-e13bef9e4ee4)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/6940b302-b988-497d-a4f7-252114cd7799)
 
 ## 💻 결과 화면 2
 ### 3라운드만 입력하고 A가 더 큰 경우
 
-![image](https://gist.github.com/assets/126778700/de378b66-0fe1-4f6b-b694-6d990e3fb339)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/9bb31db2-13d6-4cb0-9676-8ae32f8e965a)
 
 ## 💻 결과 화면 3
 ### 2라운드만 입력하고 동점인 경우
 
-![image](https://gist.github.com/assets/126778700/07759d9c-6b00-427a-9bba-20f1e9166158)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/7103e6ef-8023-4d9b-8c98-8b6c52e8ee56)
 
 ## 💻 결과 화면 4
 ### 2 라운드만 입력하고 A가 보너스 점수를 얻는 경우
 
-![image](https://gist.github.com/assets/126778700/0dd3463e-a60c-4fca-b6c8-6a4656c5782b)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/e2ebcfd9-5175-41dd-b69b-2718ef2fb03b)
