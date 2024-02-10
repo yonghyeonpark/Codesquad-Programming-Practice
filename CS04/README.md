@@ -1,3 +1,4 @@
+# 📅 Day 4
 # 🚗 자동차 검색
 
 ## 🛠️ 기능 분리
@@ -51,12 +52,13 @@
 
 ## 💻 결과 화면 1
 
-![image](https://gist.github.com/assets/126778700/26d9ee89-7353-45bc-87a2-661bf5c64107)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/5c21fed9-39f8-44af-9aa8-620df45e53d9)
 
 ## 💻 결과 화면 2
 
-![image](https://gist.github.com/assets/126778700/71995737-60b2-4259-8b89-7fcf22d6681e)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/96a92f00-1178-48f3-9375-00b20a7e79de)
 
 ## 💻 결과 화면 3
 
-![image](https://gist.github.com/assets/126778700/c8c88b86-b0c6-4f20-a585-bfef37d34897)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/16667691-6020-4994-a898-57716a0b334f)
+
