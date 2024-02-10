@@ -1,3 +1,4 @@
+# 📅 Day 6
 # 🐴 윷놀이-말판
 
 ## ❗출력 양식 변경
@@ -34,24 +35,24 @@
 
 ## 💻 결과 화면 1
 
-![image](https://gist.github.com/assets/126778700/8048da3a-7410-4eac-9280-c9d1f231d86d)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/35e2f86f-58aa-4dc4-a867-48f5e826312a)
 
 ## 💻 결과 화면 2
 
-![image](https://gist.github.com/assets/126778700/ab829b1d-4fa9-455a-bf44-cb9667695aaf)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/9ff6edc1-b153-441e-b4ca-db678b97efb8)
 
 ## 💻 결과 화면 3
 
-![image](https://gist.github.com/assets/126778700/9d719004-06b9-4ffb-92ff-7b0e7138aa1e)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/55af051d-343d-42b7-809a-b88e1551d371)
 
 ## 💻 결과 화면 4
 
-![image](https://gist.github.com/assets/126778700/d01afc24-cc0b-494b-a2b1-82066ff274e4)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/a373c583-ebdf-40ae-9ef0-f3de43b3f1b1)
 
 ## 💻 결과 화면 5
 
-![image](https://gist.github.com/assets/126778700/1b991d86-d718-48d6-b190-a95058b810e9)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/dc13d776-a9c7-4e22-9579-6010730b3db8)
 
 ## 💻 결과 화면 6
 
-![image](https://gist.github.com/assets/126778700/c81cf5d3-7096-4faf-ab62-edd47d08bc01)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/37e2669d-ee6d-43ac-824e-9ced208f0dbf)
