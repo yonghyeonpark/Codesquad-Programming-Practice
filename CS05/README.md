@@ -1,3 +1,4 @@
+# 📅 Day 5
 # 🔢 럭키 카드 게임
 
 ## 💬 미션 해석
@@ -74,12 +75,11 @@
 
 ## 💻 결과 화면
 
-![image](https://gist.github.com/assets/126778700/bbe28b1d-21a5-44a6-9261-bb35ec0360ce)
-![image](https://gist.github.com/assets/126778700/8b53d093-a2ce-4b3a-99eb-2c4fb67484d6)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/78cdf205-c114-4f62-bffd-c6e288067be1)
 
 (중략)
 
-![image](https://gist.github.com/assets/126778700/b0f91a1f-d657-44c7-bd9a-bba9bb8f0286)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/e9d91209-cb95-409f-abff-204d0d60b65d)
 
 
 ## 🤔 고민했던 부분
