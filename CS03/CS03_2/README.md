@@ -1,3 +1,4 @@
+# 📅 Day 3
 # 💯 OX 퀴즈
 
 ## 🛠️ 작업 과정
@@ -16,4 +17,4 @@
 
 ## 💻 실행 결과
 
-![image](https://gist.github.com/assets/126778700/60622ad3-2e2e-46d3-a360-1d922264a049)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/6abfa543-fb34-4345-b6ac-3653e9f5bdf8)

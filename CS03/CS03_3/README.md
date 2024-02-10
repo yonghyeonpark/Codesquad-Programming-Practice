@@ -1,6 +1,7 @@
+# 📅 Day 3
 # 🔡 아스키 코드
 
-![image](https://gist.github.com/assets/126778700/cbc889cb-ad0d-48d3-84be-4b26766c3510)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/17d904e7-a24d-4dad-9a6b-a2fd7033204b)
 
 ## 🛠️ 작업 과정
 
@@ -14,12 +15,12 @@
 
 ## 💻 실행 결과 1
 
-![image](https://gist.github.com/assets/126778700/1467566e-0a98-4c4b-aea8-f2d3e5aca247)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/64b3ae5a-35b6-4402-bd77-322258e7ed9f)
 
 ## 💻 실행 결과 2
 
-![image](https://gist.github.com/assets/126778700/42ff5e4b-2017-4989-a5d5-b5efe7df6a97)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/9f18cdbe-5817-4fe2-836e-1faf58535284)
 
 ## 💻 실행 결과 3
 
-![image](https://gist.github.com/assets/126778700/0062f1aa-488c-4278-ba34-8b68697811bf)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/9b71d49c-7c26-4c05-b586-51397edde540)

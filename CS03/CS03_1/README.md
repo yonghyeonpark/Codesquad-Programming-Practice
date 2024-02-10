@@ -1,3 +1,4 @@
+# 📅 Day 3
 # 🎵 음계
 
 ## 🛠️ 작업 과정
@@ -13,12 +14,12 @@
 
 ## 💻 실행 결과 1
 
-![image](https://gist.github.com/assets/126778700/ea17ac04-8d5b-4637-9d92-4ef71c4b4ed1)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/41453dda-78ed-4bee-8152-ce10aa16c966)
 
 ## 💻 실행 결과 2
 
-![image](https://gist.github.com/assets/126778700/5ddc2a6a-747a-463f-9c42-476c9e109f95)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/6be67e61-0f4c-4ac8-a1e5-ad643f49bbd5)
 
 ## 💻 실행 결과 3
 
-![image](https://gist.github.com/assets/126778700/6967d926-2c3f-4640-bb3d-abebd1bd9693)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/62ca7001-c5cd-4242-80dd-acf65026c981)
