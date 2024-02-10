@@ -8,17 +8,9 @@ public class Condition {
     private final String[] conditions;
 
     public Condition(String[] conditions) {
-        validateInput(conditions);
         validateDate(conditions[0]);
         validatePassengerNumber(conditions[1]);
         this.conditions = conditions;
-    }
-
-    // 뺄 예정
-    private void validateInput(String[] conditions) {
-        if (conditions.length != 2) {
-            throw new IllegalArgumentException(CONDITION_FORMAT_ERROR_MESSAGE);
-        }
     }
 
     private void validateDate(String dateS) {
