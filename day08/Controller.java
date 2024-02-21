@@ -48,6 +48,9 @@ public class Controller {
         if (process.getStep() == inputStep) {
             process.print();
         }
+        if (process.getStep() == 8 & inputStep > 8) {
+            process.print();
+        }
         computerTop(N - 1, mid, start, to);
     }
 }
