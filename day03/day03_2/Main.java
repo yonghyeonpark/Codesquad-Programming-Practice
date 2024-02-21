@@ -9,20 +9,15 @@ public class Main {
 
         int t = Integer.parseInt(br.readLine());
         for (int i = 0; i < t; i++) {
-            String s = br.readLine();
-            int size = s.length();
-            char[] answer = new char[size];
-            for (int j = 0; j < size; j++) {
-                answer[j] = s.charAt(j);
-            }
+            String[] answer = br.readLine().split("");
             int score = 0;
             int count = 0;
             for (int j = 0; j < answer.length; j++) {
-                if (answer[j] == 'O') {
+                if (answer[j].equals("O")) {
                     count++;
                     score += count;
                 }
-                if (answer[j] == 'X') {
+                if (answer[j].equals("X")) {
                     count = 0;
                 }
             }
