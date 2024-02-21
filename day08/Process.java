@@ -1,9 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.StringJoiner;
 
 public class Process {
-
-    private static final String SPACE = " ";
 
     private int step;
     private final List<Desk> desks;
@@ -27,25 +26,19 @@ public class Process {
         Desk desk2 = desks.get(1);
         Desk desk3 = desks.get(2);
 
-        StringBuilder sb = new StringBuilder();
-        sb.append("Step ")
-                .append(step)
-                .append("\n");
+        String step = "Step " + this.step + "\n";
+        StringJoiner result = new StringJoiner(" ", "", "");
         for (int i = 0; i < 9; i++) {
-            sb.append(desk1.getResult().get(i))
-                    .append(SPACE)
-                    .append(desk2.getResult().get(i))
-                    .append(SPACE)
-                    .append(desk3.getResult().get(i))
-                    .append(SPACE)
-                    .append("\n");
+            result.add(desk1.getResult().get(i))
+                    .add(desk2.getResult().get(i))
+                    .add(desk3.getResult().get(i))
+                    .add("\n");
         }
-        sb.append(desk1.getName())
-                .append(SPACE)
-                .append(desk2.getName())
-                .append(SPACE)
-                .append(desk3.getName());
-        System.out.println(sb);
+        result.add(desk1.getName())
+                .add(desk2.getName())
+                .add(desk3.getName());
+
+        System.out.print(step + result);
     }
 
     public int getStep() {
