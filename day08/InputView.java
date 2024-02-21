@@ -7,6 +7,6 @@ public class InputView {
     public int readStep() {
         Scanner scanner = new Scanner(System.in);
         System.out.print(INPUT_INFORM_MESSAGE);
-        return Integer.parseInt(scanner.nextLine());
+        return scanner.nextInt();
     }
 }
