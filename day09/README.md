@@ -6,12 +6,12 @@
 
 - 정규식을 활용합니다.
 - 데이터 입력 시, 테이블의 컬럼 순서대로 입력한다고 가정합니다.
-- `CREATE`
-  ![image](https://gist.github.com/assets/126778700/1b911263-d083-41f3-a016-1147d2c9bda5)
-- `INSERT`
-  ![image](https://gist.github.com/assets/126778700/aa355571-deca-4dc9-9dd7-034cafbccfef)
-- `DELETE`
-  ![image](https://gist.github.com/assets/126778700/c1b6e01b-23e5-434b-9065-a47dba004745)
+- `CREATE`<br>
+  ![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/e06e6bf4-26ad-4f64-9812-1cc825681605)
+- `INSERT`<br>
+  ![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/eec83c3f-841b-4f89-979e-dfd6f3c6e4b4)
+- `DELETE`<br>
+  ![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/a87e4f17-ee7d-4e9c-b404-6e9b07045c9a)
 ## 🛠️ 기능 분리
 
 ### ⚙️ Table
@@ -80,20 +80,18 @@
 
 ## 💻 결과 화면 1
 
-![image](https://gist.github.com/assets/126778700/d131e30b-19c0-4d53-8702-95e5bf748e2c)
-
-![image](https://gist.github.com/assets/126778700/02f50957-a41c-4bb2-b452-f1850d8e1d6d)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/37bbd8c7-5ec8-4db0-9fa2-5bcdd58f4060)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/5831ae5b-b558-4629-8bbe-3eaffc27bd5d)
 
 ## 💻 결과 화면 2
 
-![image](https://gist.github.com/assets/126778700/3b09e659-8245-49c7-97d4-42df9d130d7f)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/38da4557-6a92-4ed2-a9ab-fe9ad100431f)
 
 ## 💻 결과 화면 3
 
-![image](https://gist.github.com/assets/126778700/00048edc-f14f-4766-9778-ab69e30772e5)
-
-![image](https://gist.github.com/assets/126778700/ef4b10e3-5836-4cdf-985a-6a324b22e80d)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/db016fe0-2e5e-4354-b9a8-8976564eaf51)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/171a987e-23de-4d98-a7d6-9c305de82f6f)
 
 ## 💻 결과 화면 4
 
-![image](https://gist.github.com/assets/126778700/551d90c8-2ff2-4c50-888d-eabca86759e4)
+![image](https://github.com/yonghyeonpark/Codesquad-Programming-Practice/assets/126778700/418d17b9-bee3-4455-9f0d-b9239c150e18)
